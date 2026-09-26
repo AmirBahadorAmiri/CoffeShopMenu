@@ -1,5 +1,7 @@
 # ☕ CoffeShopMenu
 
+> 📖 [نسخه فارسی](./README.fa.md)
+
 A **live cafe price board** — a server-rendered RTL Persian menu that refreshes itself every 30 seconds, plus a password-protected admin panel for editing categories, products, and prices. Zero frameworks, zero npm, zero build step: plain PHP 8 + PDO/MySQL and hand-written CSS.
 
 [![Platform](https://img.shields.io/badge/platform-Apache%20%2F%20XAMPP-E8730C?style=flat-square&logo=apache&logoColor=white)](https://www.apache.org/)
