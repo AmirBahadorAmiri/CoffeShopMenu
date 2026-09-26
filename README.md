@@ -8,6 +8,10 @@ A **live cafe price board** — a server-rendered RTL Persian menu that refreshe
 [![Language](https://img.shields.io/badge/language-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#-tech-stack)
 [![License](https://img.shields.io/badge/license-MIT-1E3932?style=flat-square)](./LICENSE)
 
+<p align="center">
+  <img src="./docs/menu-board.png" alt="The live cafe price board — four categories with prices in Toman" width="820">
+</p>
+
 ## 📥 Clone
 
 > **[⬇️ Get the source from GitHub](https://github.com/AmirBahadorAmiri/CoffeShopMenu)**
@@ -138,6 +142,8 @@ CoffeShopMenu/
 │   └── admin.php             # session name + idle timeout
 ├── database/
 │   └── schema.sql            # create db, tables, indexes, seed data
+├── docs/
+│   └── menu-board.png        # README screenshot of the live board
 ├── DESIGN.md                 # design system: palette, type scale, rules
 └── LICENSE                   # MIT
 ```
