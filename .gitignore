@@ -1,0 +1,17 @@
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# Local tooling
+.omo/
+.codegraph/
+
+# Env & secrets
+.env
+.env.local
+
+# Vendor (fetch with Composer / CDN instead)
+bootstrap/
+vendor/
+node_modules/
